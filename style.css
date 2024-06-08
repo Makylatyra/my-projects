@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+   background-image:linear-gradient(#FFFAFA,#ece1e1);
+}
+
+h1{
+    background-color:#DCDCDC ;
+    border-radius: 10px;
+    color:#696969 ;
+}
+
+.link-header{
+    text-decoration: none;
+    background-color:#DCDCDC ;
+    border-radius: 10px;
+    color: #696969;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: #696969;
+    background-color: #DCDCDC;
+    border-radius: 10px;
+}
+
+.link-text:hover{
+    background-color:#ebebeb ;
+    text-decoration: none;
+    color: #535353fb;
+    border-radius: 10px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
